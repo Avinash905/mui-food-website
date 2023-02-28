@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mui-food-website/static/css/main.6b6dcebd.css",
-    "main.js": "/mui-food-website/static/js/main.3f52c512.js",
+    "main.js": "/mui-food-website/static/js/main.c8af233e.js",
     "index.html": "/mui-food-website/index.html",
     "main.6b6dcebd.css.map": "/mui-food-website/static/css/main.6b6dcebd.css.map",
-    "main.3f52c512.js.map": "/mui-food-website/static/js/main.3f52c512.js.map"
+    "main.c8af233e.js.map": "/mui-food-website/static/js/main.c8af233e.js.map"
   },
   "entrypoints": [
     "static/css/main.6b6dcebd.css",
-    "static/js/main.3f52c512.js"
+    "static/js/main.c8af233e.js"
   ]
 }
