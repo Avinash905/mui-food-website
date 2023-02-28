@@ -1,4 +1,4 @@
-Practing Material UI by making ReactJS Restaurant website
+ReactJS Restaurant website using Material UI
 <br/>
 
 ### Home Page
