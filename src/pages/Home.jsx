@@ -1,4 +1,3 @@
-import { KeyboardArrowRight } from "@mui/icons-material";
 import { Box, Button, Stack, Typography } from "@mui/material";
 import React from "react";
 import { NavLink } from "react-router-dom";
@@ -53,7 +52,7 @@ const Home = () => {
               marginTop: "20px",
             }}
           >
-            <NavLink to={"/menu"}>
+            <NavLink to={"/mui-food-website/menu"}>
               <Button variant="contained">Explore Our Menu</Button>
             </NavLink>
           </Box>
