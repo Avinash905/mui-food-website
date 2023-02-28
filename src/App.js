@@ -8,11 +8,11 @@ function App() {
     <Router>
       <Routes>
         <Route
-          path="/"
+          path="/mui-food-website"
           element={<Home />}
         />
         <Route
-          path="/menu"
+          path="/mui-food-website/menu"
           element={<Menu />}
         />
       </Routes>

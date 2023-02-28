@@ -14,8 +14,8 @@ import { NavLink } from "react-router-dom";
 
 const drawerWidth = 240;
 const navItems = [
-  { text: "Home", link: "/" },
-  { text: "Menu", link: "/menu" },
+  { text: "Home", link: "/mui-food-website" },
+  { text: "Menu", link: "/mui-food-website/menu" },
 ];
 
 function Header() {
